@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Page</title>
+</head>
+<body>
+
+<h1>Hello World</h1>
+
+<p>This is a simple HTML page.</p>
+
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+</ul>
+<h1></h1>
+<form>
+    Name: <input type="text"><br><br>
+    <input type="submit" value="Submit">
+</form>
+
+</body>
+</html>
